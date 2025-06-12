@@ -23,7 +23,7 @@ const App = () => {
           <Programs />
         </div>
         <About setPlayState={setPlayState} />
-        <Title subTitle="Gallery" title="Campus Photos" />
+        <Title subTitle="Gallery" title="Our Farms" />
         <Campus />
         <Title subTitle="TESTIMONIALS" title="What Our Customers Say" />
 
