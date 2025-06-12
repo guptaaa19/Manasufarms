@@ -1,11 +1,11 @@
 import React from "react";
 import "./Programs.css";
-import program_1 from "../../assets/program-1.png";
-import program_2 from "../../assets/program-2.png";
-import program_3 from "../../assets/program-3.png";
-import program_icon_1 from "../../assets/program-icon-1.png";
-import program_icon_2 from "../../assets/program-icon-2.png";
-import program_icon_3 from "../../assets/program-icon-3.png";
+import program_1 from "../../assets/f2.jpeg";
+import program_2 from "../../assets/f6.jpeg";
+import program_3 from "../../assets/f7.jpeg";
+import program_icon_1 from "../../assets/p2.png";
+import program_icon_2 from "../../assets/p1.png";
+import program_icon_3 from "../../assets/p3.png";
 
 const Programs = () => {
   return (
@@ -15,7 +15,7 @@ const Programs = () => {
           <img src={program_1} alt="" />
           <div className="caption">
             <img src={program_icon_1} alt="" />
-            <p>Graduation Degree</p>
+            <p>Seasonal Vegetables</p>
           </div>
         </div>
 
@@ -23,7 +23,7 @@ const Programs = () => {
           <img src={program_2} alt="" />
           <div className="caption">
             <img src={program_icon_2} alt="" />
-            <p>Masters Degree</p>
+            <p>Exotic Fruits</p>
           </div>
         </div>
 
@@ -31,7 +31,7 @@ const Programs = () => {
           <img src={program_3} alt="" />
           <div className="caption">
             <img src={program_icon_3} alt="" />
-            <p>Post Graduation</p>
+            <p>Vibrant Flowers</p>
           </div>
         </div>
       </div>

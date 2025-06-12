@@ -45,22 +45,21 @@ const Contact = () => {
           <p>
             Feel free to reach out through contact form or find our contact
             information below.Your feedback,questions,and suggestions are
-            important to us as we strive to provide exceptional serivce to our
-            university community.
+            important to us as we strive to provide exceptional serivce to our community.
           </p>
           <ul>
             <li>
               <img src={mail_icon} alt="" />
-              contact@GreatStack.dev{" "}
+              Manasufarms@gmail.com{" "}
             </li>
             <li>
               <img src={phone_icon} alt="" />
-              +1 123-456-7890{" "}
+              +91 99804 63512{" "}
             </li>
             <li>
-              <img src={location_icon} alt="" /> 77 Massachusetts Ave, Cambridge{" "}
+              <img src={location_icon} alt="" /> Sabbanakuppe , Srirangapatna Mandya{" "}
               <br />
-              MA 02139,United States
+              571807 Karnataka
             </li>
           </ul>
         </div>

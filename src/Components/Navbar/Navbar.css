@@ -9,7 +9,7 @@ nav {
   z-index: 10;
 }
 .logo{
-  width:180px;
+  width:80px;
 }
 nav ul li {
   display: inline-block;
@@ -19,7 +19,7 @@ nav ul li {
 }
 
 .dark-nav{
-  background:#212EA0;
+  background:#de1111;
   transition:0.5s;
 }
 
@@ -48,7 +48,7 @@ nav ul li {
     position:fixed;
     top:0;
     right:-200px;
-    background:#212EA0;
+    background:#de1111;
     z-index:-1;
     width:200px;
     padding-top:70px;

@@ -9,11 +9,14 @@
   align-items: center;
   justify-content: space-between;
   margin-bottom: 40px;
+  flex-wrap: wrap;
 }
 
 .gallery img {
   width: 23%;
   border-radius: 10px;
+  height: 450px; /* Fixed height for consistency */
+  object-fit: cover; /* Ensures image fills the box properly */
 }
 
 @media (max-width: 800px) {

@@ -49,16 +49,13 @@ const Testimonials = () => {
                 <div className="user-info">
                   <img src={user_1} alt="" className="user-1" />
                   <div>
-                    <h3>Autumn Zavala</h3>
-                    <span>Edusity,USA</span>
+                    <h3>Preethi Gowda</h3>
+                    <span>Hassan,Karnataka</span>
                   </div>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made.The supportive
-                community,state-of-the-art facilities,and commitment to academic
-                excellence have truly exceeded my expectations.
+                The quality of vegetables is great, they're fresh, the quantity is enough to feed a whole family. I also love that local farmers are supported, and I can rely on a surprise bundle to arrive every Monday. My mom and I get on call every Monday to see what the bundle brings and think up recipes. It's like being home.”
               </p>
             </li>
             {/*user-2 */}
@@ -68,16 +65,13 @@ const Testimonials = () => {
                 <div className="user-info">
                   <img src={user_2} alt="" className="user-2" />
                   <div>
-                    <h3>William Jackson</h3>
-                    <span>Edusity,USA</span>
+                    <h3>Ashwini Bagewadi</h3>
+                    <span>Koppal,Karnataka</span>
                   </div>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made.The supportive
-                community,state-of-the-art facilities,and commitment to academic
-                excellence have truly exceeded my expectations.
+                The Wild Forest Raw Honey is divine! Its rich, floral flavor is unmatched, and knowing it's organic adds to its appeal. Highly recommended for anyone seeking pure, natural products
               </p>
             </li>
             {/* user-3*/}
@@ -87,16 +81,13 @@ const Testimonials = () => {
                 <div className="user-info">
                   <img src={user_3} alt="" className="user-3" />
                   <div>
-                    <h3>Amora Middleton</h3>
-                    <span>Edusity,USA</span>
+                    <h3>Radhika Jayaraman</h3>
+                    <span>Bidar,Karnataka</span>
                   </div>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made.The supportive
-                community,state-of-the-art facilities,and commitment to academic
-                excellence have truly exceeded my expectations.
+                Manasu Farms has delivered incredibly fresh, toxin-free vegetables even in the toughest situations. Their team is super friendly and always tries to meet individual needs. Once, I requested a jackfruit, and they managed to get it for me, even though it wasn't on the list! Kudos to an awesome team!
               </p>
             </li>
             {/*user-4 */}
@@ -106,16 +97,13 @@ const Testimonials = () => {
                 <div className="user-info">
                   <img src={user_4} alt="" className="user-4" />
                   <div>
-                    <h3>Kendrick Pace</h3>
-                    <span>Edusity,USA</span>
+                    <h3>Priya Sharma</h3>
+                    <span>Hassan,Karnataka</span>
                   </div>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made.The supportive
-                community,state-of-the-art facilities,and commitment to academic
-                excellence have truly exceeded my expectations.
+                I’ve been purchasing from Manasu for the past few months, and the quality of the produce is exceptional. The vegetables are always fresh, vibrant, and full of flavor. It's reassuring to know that I'm supporting sustainable farming practices while enjoying healthy, chemical-free food. The delivery is prompt, and the customer service is always attentive. I highly recommend [Your Farm Name] to anyone seeking authentic organic produce.
               </p>
             </li>
           </ul>

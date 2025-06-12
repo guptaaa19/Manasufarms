@@ -6,10 +6,10 @@ const Hero=()=>{
   return <>
   <div className='hero container'>
     <div className="hero-text">
-      <h1>We Ensure better education for a better world</h1>
-      <p>Our cutting-edge curriculum is designed to empower students with the knowledge,skills,and experiences needed to excel in the dynamic field of education</p>
+      <h1>From Our Fields to Your Table: Fresh, Organic Goodness Delivered Daily</h1>
+      <p>Explore a wide variety of seasonal fruits, vegetables, and flowers grown with love and care.</p>
 
-      <button className="btn">Exolore more <img src={dark_arrow}></img></button>
+      <button className="btn">Browse Our Produce <img src={dark_arrow}></img></button>
 
     </div>
   </div>
