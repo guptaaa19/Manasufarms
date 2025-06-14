@@ -9,6 +9,7 @@ import Testimonials from "./Components/Testimonials/Testimonials";
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
 import VideoPlayer from "./Components/VideoPlayer/VideoPlayer";
+import FloatingWhatsApp from "./Components/WhatsApp/FloatingWhatsApp ";
 
 const App = () => {
   const [playState, setPlayState] = useState(false);
@@ -32,6 +33,7 @@ const App = () => {
         <Contact />
         <Footer />
         <VideoPlayer playState={playState} setPlayState={setPlayState} />
+        <FloatingWhatsApp />
       </div>
     </>
   );

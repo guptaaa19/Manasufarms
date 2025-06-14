@@ -1,0 +1,22 @@
+.floating-whatsapp {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 999;
+  background: #25d366;
+  border-radius: 50%;
+  padding: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  transition: box-shadow 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.floating-whatsapp img {
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+.floating-whatsapp:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+}
